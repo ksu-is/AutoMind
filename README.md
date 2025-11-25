@@ -1,1 +1,2 @@
-
+AutoMind — Project Overview
+AutoMind is a Python-based web application created to help small and independent car dealers manage leads, organize inventory, and calculate deals all in one simple dashboard. Built from real dealership experience, AutoMind replaces the old mix of texts, notebooks, and calculators with a faster and more efficient system that keeps salespeople organized and ready to close more deals.
